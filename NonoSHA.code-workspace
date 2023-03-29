@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../NonoSHA"
+		},
+		{
+			"path": "../NonoSH"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NonoSHA"
+	}
+}
